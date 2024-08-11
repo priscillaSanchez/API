@@ -1,0 +1,30 @@
+[
+	{
+		"IdProvincia": 1,
+		"Descripcion": "San Jose"
+	},
+	{
+		"IdProvincia": 2,
+		"Descripcion": "Alajuela"
+	},
+	{
+		"IdProvincia": 3,
+		"Descripcion": "Cartago"
+	},
+	{
+		"IdProvincia": 4,
+		"Descripcion": "Heredia"
+	},
+	{
+		"IdProvincia": 5,
+		"Descripcion": "Guanacaste"
+	},
+	{
+		"IdProvincia": 6,
+		"Descripcion": "Puntarenas"
+	},
+	{
+		"IdProvincia": 7,
+		"Descripcion": "Limon"
+	}
+]
